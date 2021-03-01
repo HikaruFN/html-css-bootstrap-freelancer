@@ -10,7 +10,12 @@ li{
     color: white;
 }
 .wrapper-green{
-
+    background-color: #1abc9c;
+    text-align: center;
+}
+.wrapper-green .row{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 /*Nav*/
@@ -27,4 +32,4 @@ li{
 #menu{
     line-height: 75px;
 }
-/*Jumbotron*/
+
