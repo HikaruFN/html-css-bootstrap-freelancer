@@ -9,6 +9,9 @@ li{
 #nav h3{
     color: white;
 }
+.wrapper-green{
+
+}
 
 /*Nav*/
 #nav{
@@ -21,7 +24,7 @@ li{
 #nav a{
     color: white;
 }
-/*Burger menu*/
-#burger-menu{
-    display: none;
+#menu{
+    line-height: 75px;
 }
+/*Jumbotron*/
