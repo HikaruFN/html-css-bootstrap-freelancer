@@ -4,10 +4,8 @@
     height: 200px;
     border: 1px solid white;
 }
+
 /*Common*/
-.right{
-    text-align: right;
-}
 li{
     list-style-type: none;
 }
@@ -17,7 +15,6 @@ li{
 }
 .wrapper-green{
     background-color: #1abc9c;
-    text-align: center;
     color: white;
 }
 .wrapper-green .row{
@@ -26,13 +23,9 @@ li{
 }
 .wrapper-white{
     color: #2c3e50;
-    text-align: center;
 }
 .wrapper-white h2{
     color: black;
-}
-.wrapper-white p{
-    text-align: left;
 }
 /*Nav*/
 #nav{
