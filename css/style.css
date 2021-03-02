@@ -62,7 +62,7 @@ header{
 
 
 /*MAIN*/
-/*Immagini portfolio*/
+/*Immagini Portfolio*/
 .box-img{
     padding-right: 20px;
     padding-top: 20px;
@@ -70,5 +70,16 @@ header{
 .avatar-img{
     width: 20%;
 }
-
-
+/*About*/
+.about-text{
+    font-size: 20px;
+}
+.about-text-margin p{
+    margin-top: 20px;
+}
+.button .download{
+    color: white;
+    border: 1px solid white;
+    border-radius: 4%;
+    margin-top: 30px;
+}
